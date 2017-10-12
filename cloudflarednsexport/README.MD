@@ -2,6 +2,8 @@
 
 ----
 ## What is Cloudflare DNS Exporter?
+Cloudflare DNS Exporter is a tool to backup your DNS Zone file using the Cloudflare API.  
+Run as a cron-job or scheduled task to periodically back up your DNS settings from Cloudflare. 
 
 ----
 ## Usage
